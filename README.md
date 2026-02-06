@@ -2,7 +2,7 @@
 
 Soy **Alan Javier Sánchez**, **Ingeniero en Software** 👨‍💻 de México 🇲🇽, con enfoque **Full Stack** y mayor fortaleza en **desarrollo backend**. Me apasiona construir sistemas escalables, APIs bien diseñadas y soluciones que resuelvan problemas reales.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true\&width=700\&lines=Ingeniero+en+Software+Full+Stack;Backend+Developer+con+enfoque+en+arquitectura;APIs+REST+%7C+.NET+%7C+FastAPI+%7C+MongoDB;Aprendiendo+IA+y+Microservicios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ingeniero+en+Software+Full+Stack;Mayor+experiencia+en+Backend;Api+REST+%7C+.NET+%7C+SQL+Server+%7C+JWT;Base+s%C3%B3lida+en+Frontend;Angular+%7C+TypeScript+%7C+Tailwind)](https://git.io/typing-svg)
 
 ---
 
