@@ -21,8 +21,8 @@ Soy **Alan Javier Sánchez**, **Ingeniero en Software** 👨‍💻 de México �
 
 * 🎓 Licenciatura en **Ingeniería en Software**
 * 💼 Experiencia en desarrollo **Full Stack**, con énfasis en **backend**
-* 🔭 Trabajo en proyectos con **.NET, FastAPI, MongoDB, SQL Server y React/Angular**
-* 🌱 Aprendiendo **microservicios, Docker e inteligencia artificial aplicada**
+* 🔭 Trabajo en proyectos con **.NET, FastAPI, MongoDB, SQL Server y Angular**
+* 🌱 Aprendiendo **Microservicios, Docker e inteligencia artificial aplicada**
 * 🤖 Interés en **IA, arquitectura de software y sistemas distribuidos**
 * 🔍 Buscando oportunidades como **Backend Developer / Full Stack Developer**
 * 💬 Abierto a conversar sobre **APIs, arquitectura limpia, autenticación, IA y buenas prácticas**
@@ -50,26 +50,6 @@ Soy **Alan Javier Sánchez**, **Ingeniero en Software** 👨‍💻 de México �
 **Payments**
 
 <img src="https://img.shields.io/badge/Stripe-5851DD?style=for-the-badge&logo=stripe&logoColor=fff">
----
-
-### 📊 Estadísticas de GitHub
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanJassan&show_icons=true&count_private=true&hide=stars&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=AlanJassan&theme=dracula&no-bg=true&row=1" />
-
----
-
-### 🌟 Lenguajes y racha
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJassan&langs_count=8&layout=compact&theme=material-palenight" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlanJassan&theme=material-palenight" />
-
----
-
-### 🔥 Actividad
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=AlanJassan&theme=dracula" />
-
 ---
 
 📌 *Este perfil refleja mi crecimiento continuo como ingeniero de software, con enfoque en calidad, arquitectura y aprendizaje constante.*
