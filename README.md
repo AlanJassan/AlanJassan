@@ -8,10 +8,10 @@ Soy **Alan Javier Sánchez**, **Ingeniero en Software** 👨‍💻 de México �
 
 ### 📫 Cómo contactarme:
 
-<a href="mailto:TU_CORREO_AQUI">
-<img src="https://img.shields.io/badge/Email-TU_CORREO_AQUI-0078D4?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI">
-<img src="https://img.shields.io/badge/LinkedIn-Alan_S%C3%A1nchez-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:alanjassan2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-alanjassan2003@gmail.com-0078D4?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alan-javier-sanchez-sanchez-3251b5398">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
 <a href="https://github.com/AlanJassan">
 <img src="https://img.shields.io/badge/GitHub-AlanJassan-181717?&style=for-the-badge&logo=github&logoColor=white"></a>
 
